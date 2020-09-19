@@ -1,0 +1,43 @@
+D:\C#\Camara en Web\Camara en Web\bin\ApplicationInsights.config
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\csc.exe
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\vbc.exe
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\VBCSCompiler.exe
+D:\C#\Camara en Web\Camara en Web\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\Camara en Web\Camara en Web\bin\Camara en Web.dll.config
+D:\C#\Camara en Web\Camara en Web\bin\Camara en Web.dll
+D:\C#\Camara en Web\Camara en Web\bin\Camara en Web.pdb
+D:\C#\Camara en Web\Camara en Web\bin\AForge.dll
+D:\C#\Camara en Web\Camara en Web\bin\AForge.Video.DirectShow.dll
+D:\C#\Camara en Web\Camara en Web\bin\AForge.Video.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.Web.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.WindowsServer.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.ApplicationInsights.dll
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\Camara en Web\Camara en Web\bin\AForge.xml
+D:\C#\Camara en Web\Camara en Web\bin\AForge.Video.xml
+D:\C#\Camara en Web\Camara en Web\bin\AForge.Video.DirectShow.xml
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.Web.xml
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.AI.WindowsServer.xml
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.ApplicationInsights.xml
+D:\C#\Camara en Web\Camara en Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\Camara en Web\Camara en Web\obj\Debug\Camara en Web.dll
+D:\C#\Camara en Web\Camara en Web\obj\Debug\Camara en Web.pdb
+D:\C#\Camara en Web\Camara en Web\obj\Debug\Camara en Web.csprojResolveAssemblyReference.cache
+D:\C#\Camara en Web\Camara en Web\bin\Controller.dll
+D:\C#\Camara en Web\Camara en Web\bin\DataAccess.dll
+D:\C#\Camara en Web\Camara en Web\bin\Controller.pdb
+D:\C#\Camara en Web\Camara en Web\bin\DataAccess.pdb

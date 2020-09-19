@@ -1,0 +1,5 @@
+D:\C#\Camara en Web\DataAccess\bin\Debug\DataAccess.dll
+D:\C#\Camara en Web\DataAccess\bin\Debug\DataAccess.pdb
+D:\C#\Camara en Web\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\C#\Camara en Web\DataAccess\obj\Debug\DataAccess.dll
+D:\C#\Camara en Web\DataAccess\obj\Debug\DataAccess.pdb

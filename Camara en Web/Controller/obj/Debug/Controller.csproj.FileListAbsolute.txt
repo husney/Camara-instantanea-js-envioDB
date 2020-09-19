@@ -1,0 +1,7 @@
+D:\C#\Camara en Web\Controller\bin\Debug\Controller.dll
+D:\C#\Camara en Web\Controller\bin\Debug\Controller.pdb
+D:\C#\Camara en Web\Controller\bin\Debug\DataAccess.dll
+D:\C#\Camara en Web\Controller\bin\Debug\DataAccess.pdb
+D:\C#\Camara en Web\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\C#\Camara en Web\Controller\obj\Debug\Controller.dll
+D:\C#\Camara en Web\Controller\obj\Debug\Controller.pdb
